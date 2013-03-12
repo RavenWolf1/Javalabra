@@ -1,0 +1,21 @@
+
+Aihe: Laivanupotus
+
+Laivanupotuspeli jossa on yksi pelaaja. Aluksi pelaaja syˆtt‰‰ pelaajanimen peliin jonka j‰lkeen tietokone arpoo valmiista m‰‰ritellyist‰ laivoista laivojen sijainnit pelilaudalle. T‰m‰n j‰lkeen pelaaja yritt‰‰ osua niihin hiirell‰ joka tuottaa joko osuman tai huti merkin pelilaudan ruudukkoon.  Peli pit‰‰ kirjaa pelaajan k‰ytt‰mist‰ hudeista sek‰ osumista ja ker‰‰ niist‰ pelin p‰‰tteeksi pistetaulukon. Peli pit‰‰ tallessa parhaiden pelaajien tulokset.
+
+
+J‰rjestys:
+
+Ohjelma ajetaan
+Peli kysyy pelaaja nimen
+	Peli est‰‰ îv‰‰r‰nlaistenî merkkien syˆtt‰misen nimeksi
+Peli tallentaa pelaaja nimen
+Peli luo pelilaudan ja sijoittaa laivat peliin
+Pelaaja yritt‰‰ osua laivoihin
+Peli pit‰‰ kokoajan kirjaa osumista ja hudeista
+Kun pelaaja on osunut viimeiseenkin laivan ruutuun, niin peli p‰‰ttyy
+Peli laskee pistetaulukoon pelaajan sijoituksen
+	Pelaajan sijoitus tallennetaan vain loppuun pelatusta pelist‰.
+Peli n‰ytt‰‰ pistetaulukon
+Peli ehdottaa uusintakierrosta vaihtoehtona on exit
+
